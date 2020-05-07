@@ -1,3 +1,6 @@
+# Github Pages Link
+https://janeyslinger.github.io/tic-tac-toe-app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
